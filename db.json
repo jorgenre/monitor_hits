@@ -1,14 +1,14 @@
-
 {
   "total": 26712,
   "documents": [
-              {
-              "docId": "00014720220829358110443",
-              "docDate": "2022-08-29T07:32:29",
-              "source": {
-              "id": 147,
-              "name": "di.se",
-              "url": "https://www.di.se"
-              }}
-                ]
-              }
+    {
+      "docId": "00014720220829358110443",
+      "docDate": "2022-08-29T07:32:29",
+      "source": {
+        "id": 147,
+        "name": "di.se",
+        "url": "https://www.di.se"
+      }
+    }
+  ]
+}
