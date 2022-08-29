@@ -1,6 +1,1626 @@
 {
-  "products": [
-    {"_id": 1, "prod_name": "Prod Name1", "prod_desc":  "Prod Name 111", "prod_price":  400, "updated_at":  "01/01/2019"},
-    {"_id": 2, "prod_name": "Prod Name2", "prod_desc":  "Prod Name 222", "prod_price":  300, "updated_at":  "01/02/2019"}
-  ]
+  "total": 26712,
+  "documents": [
+    {
+      "docId": "00014720220829358110443",
+      "docDate": "2022-08-29T07:32:29",
+      "source": {
+        "id": 147,
+        "name": "di.se",
+        "url": "https://www.di.se"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "wordCount": 727,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.di.se%2Fbors%2Fpressmeddelande%2Fd3b77184-4ba8-5a69-a367-4bbf249a4ada&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110443&key=dfd11bcb02ca023fce6fa08aa99d26af&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=BW%20Offshore%3A%20Second%20Quarter%20and%20First%20Half%20Result%202022%20-%20di.se https://www.di.se/bors/pressmeddelande/d3b77184-4ba8-5a69-a367-4bbf249a4ada",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.di.se/bors/pressmeddelande/d3b77184-4ba8-5a69-a367-4bbf249a4ada&display=page&t=Second+Quarter+a+nd+First+Half+Result+202+2+HIGHLIGHTS+EBITDA+of+USD+75.6+million+in+Q2+and+USD+160.4+million+for+the+first+half+year+Operating+cashflow+of+USD+135.8+million+in+Q2+and+USD+283.7+million+for+the+first+half+year+Barossa+project",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.di.se/bors/pressmeddelande/d3b77184-4ba8-5a69-a367-4bbf249a4ada&display=page&t=Second+Quarter+a+nd+First+Half+Result+202+2+HIGHLIGHTS+EBITDA+of+USD+75.6+million+in+Q2+and+USD+160.4+million+for+the+first+half+year+Operating+cashflow+of+USD+135.8+million+in+Q2+and+USD+283.7+million+for+the+first+half+year+Barossa+project",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=BW+Offshore%3A+Second+Quarter+and+First+Half+Result+2022&summary=Second+Quarter+a+nd+First+Half+Result+202+2+HIGHLIGHTS+EBITDA+of+USD+75.6+million+in+Q2+and+USD+160.4+million+for+the+...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.di.se%2Fbors%2Fpressmeddelande%2Fd3b77184-4ba8-5a69-a367-4bbf249a4ada"
+      },
+      "displayRules": {
+        "framedDefault": true,
+        "fullTextSwitch": true,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": false,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "B",
+        "markAsExportable": true
+      },
+      "headline": "BW Offshore: Second Quarter and First Half Result 2022",
+      "intro": "Second Quarter a nd First Half Result 202 2 HIGHLIGHTS EBITDA of USD 75.6 million in Q2 and USD 160.4 million for the first half year Operating cashflow of USD 135.8 million in Q2 and USD 283.7 million for the first half year Barossa project",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00014720220829358110443&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00014720220829358110443&profiles=2321208&serviceId=1",
+        "origUrl": "https://www.di.se/bors/pressmeddelande/d3b77184-4ba8-5a69-a367-4bbf249a4ada",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110443&key=dfd11bcb02ca023fce6fa08aa99d26af",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110443&key=dfd11bcb02ca023fce6fa08aa99d26af&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 15829,
+            "unadjusted": 15828.7998,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00008420220829358110473",
+      "docDate": "2022-08-29T07:30:00",
+      "source": {
+        "id": 84,
+        "name": "Avanza",
+        "url": "https://www.avanza.se"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "wire",
+      "mediatype2": "pressrelease",
+      "wordCount": 3001,
+      "duplicateCount": 1,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.avanza.se%2Fplacera%2Fpressmeddelanden%2F2022%2F08%2F29%2Fsavosolar-oyj-savosolar-oyj-and-meriaura-oy-to-merge-with-a-share-exchange.html&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110473&key=b92254cf3c3d133d407ed285340c839e&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Savosolar%20Oyj%3A%20Savosolar%20Oyj%20and%20Meriaura%20Oy%20to%20merge%20with%20a%20share%20exchange%20%28GlobeNewswire%29%202022-08-29%2007%3A30%20-%20Avanza https://www.avanza.se/placera/pressmeddelanden/2022/08/29/savosolar-oyj-savosolar-oyj-and-meriaura-oy-to-merge-with-a-share-exchange.html",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.avanza.se/placera/pressmeddelanden/2022/08/29/savosolar-oyj-savosolar-oyj-and-meriaura-oy-to-merge-with-a-share-exchange.html&display=page&t=Savosolar+Plc+Company+Announcement%2C+Insider+information+29+August+2022+at+7.30+a.m.+%28CEST%29",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.avanza.se/placera/pressmeddelanden/2022/08/29/savosolar-oyj-savosolar-oyj-and-meriaura-oy-to-merge-with-a-share-exchange.html&display=page&t=Savosolar+Plc+Company+Announcement%2C+Insider+information+29+August+2022+at+7.30+a.m.+%28CEST%29",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Savosolar+Oyj%3A+Savosolar+Oyj+and+Meriaura+Oy+to+merge+with+a+share+exchange+%28GlobeNewswire%29+2022-08-29+07%3A30&summary=Savosolar+Plc+Company+Announcement%2C+Insider+information+29+August+2022+at+7.30+a.m.+%28CEST%29&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.avanza.se%2Fplacera%2Fpressmeddelanden%2F2022%2F08%2F29%2Fsavosolar-oyj-savosolar-oyj-and-meriaura-oy-to-merge-with-a-share-exchange.html"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Savosolar Oyj: Savosolar Oyj and Meriaura Oy to merge with a share exchange (GlobeNewswire) 2022-08-29 07:30",
+      "dynteaser": " Implementation of the transaction requires\na written consent to the change in the company's ownership from Meriaura's financiers (<span class=\"retriever-hit\">Nordea</span>, Finnvera, ",
+      "intro": "Savosolar Plc Company Announcement, Insider information 29 August 2022 at 7.30 a.m. (CEST)",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00008420220829358110473&profiles=2347866&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00008420220829358110473&profiles=2347866&serviceId=1",
+        "origUrl": "https://www.avanza.se/placera/pressmeddelanden/2022/08/29/savosolar-oyj-savosolar-oyj-and-meriaura-oy-to-merge-with-a-share-exchange.html",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110473&key=b92254cf3c3d133d407ed285340c839e",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110473&key=b92254cf3c3d133d407ed285340c839e&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2347866,
+            "name": "BAD-1871 - Banksektorn"
+          },
+          "categories": {
+            "18627": 361883
+          },
+          "categoriesV2": [
+            {
+              "category": 18627,
+              "field": 361883,
+              "confidence": 1,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 216,
+            "unadjusted": 215.582,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2347866": [
+            {
+              "term": "nordea",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00008420220829358110482",
+      "docDate": "2022-08-29T07:30:00",
+      "source": {
+        "id": 84,
+        "name": "Avanza",
+        "url": "https://www.avanza.se"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "wire",
+      "mediatype2": "pressrelease",
+      "wordCount": 450,
+      "duplicateCount": 1,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.avanza.se%2Fplacera%2Fpressmeddelanden%2F2022%2F08%2F29%2Ffabege-over-80-commute-to-and-from-arenastaden-in-an-environmentally-friendly-way.html&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110482&key=e6af25a02969f8449f146f8f601fbc3c&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Fabege%3A%20Over%2080%25%20commute%20to%20and%20from%20Arenastaden%20in%20an%20environmentally-friendly%20way%20%28Cision%29%202022-08-29%2007%3A30%20-%20Avanza https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-commute-to-and-from-arenastaden-in-an-environmentally-friendly-way.html",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-commute-to-and-from-arenastaden-in-an-environmentally-friendly-way.html&display=page&t=A+new+comprehensive+travel+survey+shows+that+the+vast+majority+of+people+who+work+in+Arenastaden+travel+to+the+area+in+an+emission-efficient+way%2C+using+public+transport%2C+bicycle%2C+walking%2C+rechargeable+car%2C+moped+or+electric+scooter.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-commute-to-and-from-arenastaden-in-an-environmentally-friendly-way.html&display=page&t=A+new+comprehensive+travel+survey+shows+that+the+vast+majority+of+people+who+work+in+Arenastaden+travel+to+the+area+in+an+emission-efficient+way%2C+using+public+transport%2C+bicycle%2C+walking%2C+rechargeable+car%2C+moped+or+electric+scooter.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Fabege%3A+Over+80%25+commute+to+and+from+Arenastaden+in+an+environmentally-friendly+way+%28Cision%29+2022-08-29+07%3A30&summary=A+new+comprehensive+travel+survey+shows+that+the+vast+majority+of+people+who+work+in+Arenastaden+travel+to+the+area+in...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.avanza.se%2Fplacera%2Fpressmeddelanden%2F2022%2F08%2F29%2Ffabege-over-80-commute-to-and-from-arenastaden-in-an-environmentally-friendly-way.html"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Fabege: Over 80% commute to and from Arenastaden in an environmentally-friendly way (Cision) 2022-08-29 07:30",
+      "dynteaser": "from Arenastaden by 2030, says Mia Häggström, Head of Sustainability at Fabege. <p> Together with\nICA, Siemens, Carlsberg Sweden, <span class=\"retriever-hit\">SEB</span>, Apoteket, ",
+      "intro": "A new comprehensive travel survey shows that the vast majority of people who work in Arenastaden travel to the area in an emission-efficient way, using public transport, bicycle, walking, rechargeable car, moped or electric scooter.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00008420220829358110482&profiles=2347866&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00008420220829358110482&profiles=2347866&serviceId=1",
+        "origUrl": "https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-commute-to-and-from-arenastaden-in-an-environmentally-friendly-way.html",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110482&key=e6af25a02969f8449f146f8f601fbc3c",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110482&key=e6af25a02969f8449f146f8f601fbc3c&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2347866,
+            "name": "BAD-1871 - Banksektorn"
+          },
+          "categories": {
+            "18627": 361882
+          },
+          "categoriesV2": [
+            {
+              "category": 18627,
+              "field": 361882,
+              "confidence": 1,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 216,
+            "unadjusted": 215.582,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2347866": [
+            {
+              "term": "seb",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00008420220829358110480",
+      "docDate": "2022-08-29T07:30:00",
+      "source": {
+        "id": 84,
+        "name": "Avanza",
+        "url": "https://www.avanza.se"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "wire",
+      "mediatype2": "pressrelease",
+      "wordCount": 376,
+      "duplicateCount": 2,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.avanza.se%2Fplacera%2Fpressmeddelanden%2F2022%2F08%2F29%2Ffabege-over-80-reser-klimatsmart-till-och-fran-arenastaden.html&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110480&key=f4a19874291419f1d4108826ad17bf6d&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Fabege%3A%20%C3%96ver%2080%25%20reser%20klimatsmart%20till%20och%20fr%C3%A5n%20Arenastaden%20%28Cision%29%202022-08-29%2007%3A30%20-%20Avanza https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-reser-klimatsmart-till-och-fran-arenastaden.html",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-reser-klimatsmart-till-och-fran-arenastaden.html&display=page&t=En+ny+omfattande+resvaneunders%C3%B6kning+visar+att+en+%C3%B6verv%C3%A4gande+majoritet+av+medarbetarna+i+Arenastaden+reser+utsl%C3%A4ppseffektivt+till+stadsdelen+genom+kollektivtrafik%2C+cykel%2C+promenad%2C+laddbar+bil%2C+moped+eller+elsparkcykel.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-reser-klimatsmart-till-och-fran-arenastaden.html&display=page&t=En+ny+omfattande+resvaneunders%C3%B6kning+visar+att+en+%C3%B6verv%C3%A4gande+majoritet+av+medarbetarna+i+Arenastaden+reser+utsl%C3%A4ppseffektivt+till+stadsdelen+genom+kollektivtrafik%2C+cykel%2C+promenad%2C+laddbar+bil%2C+moped+eller+elsparkcykel.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Fabege%3A+%C3%96ver+80%25+reser+klimatsmart+till+och+fr%C3%A5n+Arenastaden+%28Cision%29+2022-08-29+07%3A30&summary=En+ny+omfattande+resvaneunders%C3%B6kning+visar+att+en+%C3%B6verv%C3%A4gande+majoritet+av+medarbetarna+i+Arenastaden+reser+utsl%C3%A4ppsef...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.avanza.se%2Fplacera%2Fpressmeddelanden%2F2022%2F08%2F29%2Ffabege-over-80-reser-klimatsmart-till-och-fran-arenastaden.html"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Fabege: Över 80% reser klimatsmart till och från Arenastaden (Cision) 2022-08-29 07:30",
+      "dynteaser": "med ICA, Siemens, Carlsberg Sverige, <span class=\"retriever-hit\">SEB</span>, Apoteket, Telia, Unibail Rodamco Westfield och\nVattenfall startat ett nätverk som, i nära relation med ",
+      "intro": "En ny omfattande resvaneundersökning visar att en övervägande majoritet av medarbetarna i Arenastaden reser utsläppseffektivt till stadsdelen genom kollektivtrafik, cykel, promenad, laddbar bil, moped eller elsparkcykel.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00008420220829358110480&profiles=2347866&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00008420220829358110480&profiles=2347866&serviceId=1",
+        "origUrl": "https://www.avanza.se/placera/pressmeddelanden/2022/08/29/fabege-over-80-reser-klimatsmart-till-och-fran-arenastaden.html",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110480&key=f4a19874291419f1d4108826ad17bf6d",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358110480&key=f4a19874291419f1d4108826ad17bf6d&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2347866,
+            "name": "BAD-1871 - Banksektorn"
+          },
+          "categories": {
+            "18627": 361882
+          },
+          "categoriesV2": [
+            {
+              "category": 18627,
+              "field": 361882,
+              "confidence": 1,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 216,
+            "unadjusted": 215.582,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2347866": [
+            {
+              "term": "seb",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00544620220829358110507",
+      "docDate": "2022-08-29T07:30:00",
+      "source": {
+        "id": 5446,
+        "name": "Oslo Børs",
+        "url": "https://www.newsweb.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "wire",
+      "mediatype2": "pressrelease",
+      "wordCount": 780,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fnewsweb.oslobors.no%2Fmessage%2F569914&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110507&key=2e4706f07985b365ff3142410e1ad95f&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=BW%20Offshore%3A%20Second%20Quarter%20and%20First%20Half%20Result%202022%20-%20Oslo%20B%C3%B8rs https://newsweb.oslobors.no/message/569914",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://newsweb.oslobors.no/message/569914&display=page&t=Second+Quarter+and+First+Half+Result+2022+HIGHLIGHTS+*+EBITDA+of+USD+75.6+million+in+Q2+and+USD+160.4+million+for+the+first+half+year+*+Operating+cashflow+of+USD+135.8+million+in+Q2+and+USD+283.7+million+for+the+first+half+year+*+Barossa+project",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://newsweb.oslobors.no/message/569914&display=page&t=Second+Quarter+and+First+Half+Result+2022+HIGHLIGHTS+*+EBITDA+of+USD+75.6+million+in+Q2+and+USD+160.4+million+for+the+first+half+year+*+Operating+cashflow+of+USD+135.8+million+in+Q2+and+USD+283.7+million+for+the+first+half+year+*+Barossa+project",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=BW+Offshore%3A+Second+Quarter+and+First+Half+Result+2022&summary=Second+Quarter+and+First+Half+Result+2022+HIGHLIGHTS+*+EBITDA+of+USD+75.6+million+in+Q2+and+USD+160.4+million+for+the+...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fnewsweb.oslobors.no%2Fmessage%2F569914"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "BW Offshore: Second Quarter and First Half Result 2022",
+      "dynteaser": "following the close of trading on <span class=\"retriever-hit\">Oslo</span> Børs on\n1 September 2022 will be entitled to the distribution payable on or about ",
+      "intro": "Second Quarter and First Half Result 2022 HIGHLIGHTS * EBITDA of USD 75.6 million in Q2 and USD 160.4 million for the first half year * Operating cashflow of USD 135.8 million in Q2 and USD 283.7 million for the first half year * Barossa project",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00544620220829358110507&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00544620220829358110507&profiles=2321208&serviceId=1",
+        "origUrl": "https://newsweb.oslobors.no/message/569914",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110507&key=2e4706f07985b365ff3142410e1ad95f",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110507&key=2e4706f07985b365ff3142410e1ad95f&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "1197552022082948601247052",
+      "docDate": "2022-08-29T07:28:20",
+      "source": {
+        "id": 119755,
+        "name": "American Banking and Market News"
+      },
+      "status": "published",
+      "mediatype": "print",
+      "mediatype1": "print",
+      "mediatype2": "xml",
+      "wordCount": 775,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=http%3A%2F%2Fct.moreover.com%2F%3Fa%3D48601247052%26p%3D2a0%26v%3D1%26x%3DrvD-6WD047pivNic7_JC2g&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=http://ct.moreover.com/?a=48601247052&p=2a0&v=1&x=rvD-6WD047pivNic7_JC2g&display=page&t=QuidelOrtho+QuidelOrtho+Co.+%28NASDAQ%3AQDEL+-+Get+Rating+%29+saw+a+large+increase+in+short+interest+in+August.+As+of+August+15th%2C+there+was+short+interest+totalling+4%2C060%2C000+shares%2C+an+increase+of+30.5%25+from+the+July+31st+total+of+3%2C110%2C000+shares."
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": true,
+        "brandLocked": false,
+        "allowTranslation": false,
+        "showFulltext": true,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "L",
+        "markAsExportable": true
+      },
+      "headline": "Short Interest in QuidelOrtho Co. (NASDAQ:QDEL) Expands By 30.5%",
+      "dynteaser": "shares in the last quarter. <p> <span class=\"retriever-hit\">Nordea</span> Investment Management AB purchased a new stake in QuidelOrtho in the first quarter valued at approximately ",
+      "intro": "QuidelOrtho QuidelOrtho Co. (NASDAQ:QDEL - Get Rating ) saw a large increase in short interest in August. As of August 15th, there was short interest totalling 4,060,000 shares, an increase of 30.5% from the July 31st total of 3,110,000 shares.",
+      "urls": {
+        "fulltext": "/services/monitor/displayDocument?documentId=1197552022082948601247052&profiles=2347866",
+        "internalFulltext": true,
+        "origUrl": "http://ct.moreover.com/?a=48601247052&p=2a0&v=1&x=rvD-6WD047pivNic7_JC2g"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2347866,
+            "name": "BAD-1871 - Banksektorn"
+          },
+          "categories": {
+            "18627": 361883
+          },
+          "categoriesV2": [
+            {
+              "category": 18627,
+              "field": 361883,
+              "confidence": 1,
+              "system": "es_indexer"
+            }
+          ]
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2347866": [
+            {
+              "term": "nordea",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00300120220829358110357",
+      "docDate": "2022-08-29T07:27:00",
+      "source": {
+        "id": 3001,
+        "name": "Euroinvestor",
+        "url": "https://www.euroinvestor.dk/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "Simon Richard Nielsen",
+      "wordCount": 132,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.euroinvestor.dk%2Fboligoekonomi%2Frentechok-rammer-nu-disse-boligejere&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=da&id=358110357&key=f3058e24595dcd62676e93eb4dc84439&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Rentechok%20rammer%20nu%20disse%20boligejere%20-%20Euroinvestor https://www.euroinvestor.dk/boligoekonomi/rentechok-rammer-nu-disse-boligejere",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.euroinvestor.dk/boligoekonomi/rentechok-rammer-nu-disse-boligejere&display=page&t=Rentestigninger+har+v%C3%A6ret+p%C3%A5+dagsordenen+gennem+2022%2C+men+f%C3%B8rst+nu+kommer+det+for+alvor+til+at+g%C3%B8re+ondt+p%C3%A5+boligejere+med+fleksl%C3%A5n%2C+skriver+Finans.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.euroinvestor.dk/boligoekonomi/rentechok-rammer-nu-disse-boligejere&display=page&t=Rentestigninger+har+v%C3%A6ret+p%C3%A5+dagsordenen+gennem+2022%2C+men+f%C3%B8rst+nu+kommer+det+for+alvor+til+at+g%C3%B8re+ondt+p%C3%A5+boligejere+med+fleksl%C3%A5n%2C+skriver+Finans.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Rentechok+rammer+nu+disse+boligejere&summary=Rentestigninger+har+v%C3%A6ret+p%C3%A5+dagsordenen+gennem+2022%2C+men+f%C3%B8rst+nu+kommer+det+for+alvor+til+at+g%C3%B8re+ondt+p%C3%A5+boligejere...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.euroinvestor.dk%2Fboligoekonomi%2Frentechok-rammer-nu-disse-boligejere"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": false,
+        "allowPdfShare": false,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Rentechok rammer nu disse boligejere",
+      "dynteaser": " Særligt de tre-årige flekslån er hårdt ramt af de seneste auktioner hos <span class=\"retriever-hit\">Nordea</span> og Totalkredit, hvor renten er strøget op i det højeste niveau i 11 ",
+      "intro": "Rentestigninger har været på dagsordenen gennem 2022, men først nu kommer det for alvor til at gøre ondt på boligejere med flekslån, skriver Finans.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00300120220829358110357&profiles=2347866&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00300120220829358110357&profiles=2347866&serviceId=1",
+        "origUrl": "https://www.euroinvestor.dk/boligoekonomi/rentechok-rammer-nu-disse-boligejere",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=da&id=358110357&key=f3058e24595dcd62676e93eb4dc84439",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=da&id=358110357&key=f3058e24595dcd62676e93eb4dc84439&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2347866,
+            "name": "BAD-1871 - Banksektorn"
+          },
+          "categories": {
+            "18627": 361883
+          },
+          "categoriesV2": [
+            {
+              "category": 18627,
+              "field": 361883,
+              "confidence": 1,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 1071,
+            "unadjusted": 1070.6801,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2347866": [
+            {
+              "term": "nordea",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00256720220829358110369",
+      "docDate": "2022-08-29T07:26:00",
+      "source": {
+        "id": 2567,
+        "name": "Kampanje",
+        "url": "https://kampanje.com/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "Knut Kristian Hauger",
+      "wordCount": 166,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.kampanje.com%2Fpr%2F2022%2F08%2Fgar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare%2F&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110369&key=0feac9f5338f596c3ac50bc00798239a&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=G%C3%A5r%20fra%20Fasett%20til%20Apeland%3A%20-%20Et%20skikkelig%20fint%20sted%20%C3%A5%20v%C3%A6re%20-%20Kampanje https://www.kampanje.com/pr/2022/08/gar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare/",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.kampanje.com/pr/2022/08/gar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare/&display=page&t=Etter+en+tur+innom+byr%C3%A5et+Fasett+har+Line+Thams+Reiersen+beveget+seg+videre+til+Apeland.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.kampanje.com/pr/2022/08/gar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare/&display=page&t=Etter+en+tur+innom+byr%C3%A5et+Fasett+har+Line+Thams+Reiersen+beveget+seg+videre+til+Apeland.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=G%C3%A5r+fra+Fasett+til+Apeland%3A+-+Et+skikkelig+fint+sted+%C3%A5+v%C3%A6re&summary=Etter+en+tur+innom+byr%C3%A5et+Fasett+har+Line+Thams+Reiersen+beveget+seg+videre+til+Apeland.&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.kampanje.com%2Fpr%2F2022%2F08%2Fgar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare%2F"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "I",
+        "markAsExportable": true
+      },
+      "headline": "Går fra Fasett til Apeland: - Et skikkelig fint sted å være",
+      "dynteaser": " Det er et skikkelig fint sted å være, sier Reiersen. <p> Reiersen har flere års erfaring fra kommunikasjonsarbeid i <span class=\"retriever-hit\">Oslo</span> kommune,\nder hun ifølge ",
+      "intro": "Etter en tur innom byrået Fasett har Line Thams Reiersen beveget seg videre til Apeland.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00256720220829358110369&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "https://www.kampanje.com/pr/2022/08/gar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare/",
+        "origUrl": "https://www.kampanje.com/pr/2022/08/gar-fra-fasett-til-apeland---et-skikkelig-fint-sted-a-vare/",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110369&key=0feac9f5338f596c3ac50bc00798239a",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110369&key=0feac9f5338f596c3ac50bc00798239a&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 544,
+            "unadjusted": 543.867,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "01758020220829358110421",
+      "docDate": "2022-08-29T07:20:00",
+      "source": {
+        "id": 17580,
+        "name": "EiendomsWatch",
+        "url": "https://eiendomswatch.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "ØYVIND HENRIKSEN",
+      "wordCount": 63,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Feiendomswatch.no%2Fnyheter%2Farticle14350377.ece&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110421&key=acefd44547cb456e1e0a0bbbd3e6c585&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Dette%20skjer%20denne%20uken%20-%20EiendomsWatch https://eiendomswatch.no/nyheter/article14350377.ece",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://eiendomswatch.no/nyheter/article14350377.ece&display=page&t=%C3%85pning+av+Sommerro+hotell+i+Oslo+og+h%C3%B8stm%C3%B8te+for+n%C3%A6ringsmeglere.+Denne+uken+blir+det+full+fart%2C+og+mye+fest.+Her+er+ukens+planlagt+hendelser.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://eiendomswatch.no/nyheter/article14350377.ece&display=page&t=%C3%85pning+av+Sommerro+hotell+i+Oslo+og+h%C3%B8stm%C3%B8te+for+n%C3%A6ringsmeglere.+Denne+uken+blir+det+full+fart%2C+og+mye+fest.+Her+er+ukens+planlagt+hendelser.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Dette+skjer+denne+uken&summary=%C3%85pning+av+Sommerro+hotell+i+Oslo+og+h%C3%B8stm%C3%B8te+for+n%C3%A6ringsmeglere.+Denne+uken+blir+det+full+fart%2C+og+mye+fest.+Her+er+uk...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Feiendomswatch.no%2Fnyheter%2Farticle14350377.ece"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Dette skjer denne uken",
+      "dynteaser": " Åpning av Sommerro hotell i <span class=\"retriever-hit\">Oslo</span> og høstmøte for næringsmeglere.",
+      "intro": "Åpning av Sommerro hotell i Oslo og høstmøte for næringsmeglere. Denne uken blir det full fart, og mye fest. Her er ukens planlagt hendelser.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=01758020220829358110421&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=01758020220829358110421&profiles=2321208&serviceId=1",
+        "origUrl": "https://eiendomswatch.no/nyheter/article14350377.ece",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110421&key=acefd44547cb456e1e0a0bbbd3e6c585",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110421&key=acefd44547cb456e1e0a0bbbd3e6c585&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00230420220829358110217",
+      "docDate": "2022-08-29T07:19:40",
+      "source": {
+        "id": 2304,
+        "name": "VG Nett",
+        "url": "https://www.vg.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "Jørn E. Kaalstad",
+      "wordCount": 1750,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.vg.no%2Fi%2F1OKEyQ&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110217&key=7ae37175906be3eaddc3db9516a64a59&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Staten%20vil%20ikke%20betale%20for%20livsviktig%20kreftmedisin%20-%20VG%20Nett https://www.vg.no/i/1OKEyQ",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.vg.no/i/1OKEyQ&display=page&t=Kreftrammede+jubler+over+en+ny+godkjent+medisin+som+virker%2C+men+helsemyndighetene+vil+ikke+betale+-+og+pasienter+m%C3%A5+ty+til+innsamling+for+%C3%A5+f%C3%A5+den+livsviktige+medisinen.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.vg.no/i/1OKEyQ&display=page&t=Kreftrammede+jubler+over+en+ny+godkjent+medisin+som+virker%2C+men+helsemyndighetene+vil+ikke+betale+-+og+pasienter+m%C3%A5+ty+til+innsamling+for+%C3%A5+f%C3%A5+den+livsviktige+medisinen.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Staten+vil+ikke+betale+for+livsviktig+kreftmedisin&summary=Kreftrammede+jubler+over+en+ny+godkjent+medisin+som+virker%2C+men+helsemyndighetene+vil+ikke+betale+-+og+pasienter+m%C3%A5+ty...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.vg.no%2Fi%2F1OKEyQ"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "I",
+        "markAsExportable": true
+      },
+      "headline": "Staten vil ikke betale for livsviktig kreftmedisin",
+      "dynteaser": "medisin som gir disse kvinnene nytt håp. <p> Hatt kreft i 10 år <p>\nMonica Lund Osther (47) bor i <span class=\"retriever-hit\">Oslo</span>.",
+      "intro": "Kreftrammede jubler over en ny godkjent medisin som virker, men helsemyndighetene vil ikke betale - og pasienter må ty til innsamling for å få den livsviktige medisinen.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00230420220829358110217&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "https://www.vg.no/i/1OKEyQ",
+        "origUrl": "https://www.vg.no/i/1OKEyQ",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110217&key=7ae37175906be3eaddc3db9516a64a59",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110217&key=7ae37175906be3eaddc3db9516a64a59&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 25953,
+            "unadjusted": 25953,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "01440220220829358110325",
+      "docDate": "2022-08-29T07:17:00",
+      "source": {
+        "id": 14402,
+        "name": "Folkebladet Pluss",
+        "url": "https://www.folkebladet.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "protected",
+      "byline": "Jørn Mikael Hagen, iTromsø",
+      "wordCount": 476,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.folkebladet.no%2Fnyheter%2Fi%2F1OQ8Ae%2Fkapasiteten-i-stroemnettet-i-nord-blir-fylt-opp-i-loepet-av-faa-aar&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110325&key=4bd72199c504e4884ceaaa7fcb91da70&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Kapasiteten%20i%20str%C3%B8mnettet%20i%20nord%20blir%20fylt%20opp%20i%20l%C3%B8pet%20av%20f%C3%A5%20%C3%A5r%20-%20Folkebladet%20Pluss https://www.folkebladet.no/nyheter/i/1OQ8Ae/kapasiteten-i-stroemnettet-i-nord-blir-fylt-opp-i-loepet-av-faa-aar",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.folkebladet.no/nyheter/i/1OQ8Ae/kapasiteten-i-stroemnettet-i-nord-blir-fylt-opp-i-loepet-av-faa-aar&display=page&t=Statnett+har+omfattende+planer+om+%C3%B8kt+kraftforbruk%2C+noe+som+krever+store+nettiltak.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.folkebladet.no/nyheter/i/1OQ8Ae/kapasiteten-i-stroemnettet-i-nord-blir-fylt-opp-i-loepet-av-faa-aar&display=page&t=Statnett+har+omfattende+planer+om+%C3%B8kt+kraftforbruk%2C+noe+som+krever+store+nettiltak.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Kapasiteten+i+str%C3%B8mnettet+i+nord+blir+fylt+opp+i+l%C3%B8pet+av+f%C3%A5+%C3%A5r&summary=Statnett+har+omfattende+planer+om+%C3%B8kt+kraftforbruk%2C+noe+som+krever+store+nettiltak.&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.folkebladet.no%2Fnyheter%2Fi%2F1OQ8Ae%2Fkapasiteten-i-stroemnettet-i-nord-blir-fylt-opp-i-loepet-av-faa-aar"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "C",
+        "markAsExportable": true
+      },
+      "headline": "Kapasiteten i strømnettet i nord blir fylt opp i løpet av få år",
+      "dynteaser": "<p> Nordland <p> Midt <p> Sogn og Sunnmøre <p> Bergensområdet og Haugalandet <p>\nSør-Rogaland og Agder <p> Telemark og Vestfold <p> <span class=\"retriever-hit\">Oslo</span> og Østfold ",
+      "intro": "Statnett har omfattende planer om økt kraftforbruk, noe som krever store nettiltak.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=01440220220829358110325&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=01440220220829358110325&profiles=2321208&serviceId=1",
+        "origUrl": "https://www.folkebladet.no/nyheter/i/1OQ8Ae/kapasiteten-i-stroemnettet-i-nord-blir-fylt-opp-i-loepet-av-faa-aar",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110325&key=4bd72199c504e4884ceaaa7fcb91da70",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110325&key=4bd72199c504e4884ceaaa7fcb91da70&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 239,
+            "unadjusted": 238.538,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00258220220829358110387",
+      "docDate": "2022-08-29T07:16:00",
+      "source": {
+        "id": 2582,
+        "name": "Nettavisen",
+        "url": "https://www.nettavisen.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "NTB",
+      "wordCount": 737,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.nettavisen.no%2Fnyheter%2Fesa-folger-med-pa-mulig-norsk-eksportbrems%2Fs%2F5-95-624318%3Fkey%3D2022-08-29T05%3A38%3A12.000Z%2Fretriever%2F124c2da28c911d4c6c58bde2dcfac104fe5d9879&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110387&key=e3581848fb5ea74e9c727ce7ac0dcfd8&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Esa%20f%C3%B8lger%20med%20p%C3%A5%20mulig%20norsk%20eksportbrems%20-%20Nettavisen https://www.nettavisen.no/nyheter/esa-folger-med-pa-mulig-norsk-eksportbrems/s/5-95-624318?rid=amedia",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.nettavisen.no/nyheter/esa-folger-med-pa-mulig-norsk-eksportbrems/s/5-95-624318?rid=amedia&display=page&t=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+til+Europa%2C+opplyser+kontrollorganet.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.nettavisen.no/nyheter/esa-folger-med-pa-mulig-norsk-eksportbrems/s/5-95-624318?rid=amedia&display=page&t=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+til+Europa%2C+opplyser+kontrollorganet.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Esa+f%C3%B8lger+med+p%C3%A5+mulig+norsk+eksportbrems&summary=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+ti...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.nettavisen.no%2Fnyheter%2Fesa-folger-med-pa-mulig-norsk-eksportbrems%2Fs%2F5-95-624318%3Frid%3Damedia"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "I",
+        "markAsExportable": true
+      },
+      "headline": "Esa følger med på mulig norsk eksportbrems",
+      "dynteaser": "<p> Britenes ambassadør til <span class=\"retriever-hit\">Oslo</span>, Richard\nWood, understreker at Norge og Storbritannia må løse energiproblemene sammen - ikke hver for seg. <p> Wood ",
+      "intro": "Esa følger med på strømdebatten i Norge og vil ta stilling til forslag fra regjeringen om å begrense krafteksporten til Europa, opplyser kontrollorganet.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00258220220829358110387&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "https://www.nettavisen.no/nyheter/esa-folger-med-pa-mulig-norsk-eksportbrems/s/5-95-624318?key=2022-08-29T05:38:12.000Z/retriever/124c2da28c911d4c6c58bde2dcfac104fe5d9879",
+        "origUrl": "https://www.nettavisen.no/nyheter/esa-folger-med-pa-mulig-norsk-eksportbrems/s/5-95-624318?key=2022-08-29T05:38:12.000Z/retriever/124c2da28c911d4c6c58bde2dcfac104fe5d9879",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110387&key=e3581848fb5ea74e9c727ce7ac0dcfd8",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110387&key=e3581848fb5ea74e9c727ce7ac0dcfd8&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 13644,
+            "unadjusted": 13644.4004,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00049020220829358109974",
+      "docDate": "2022-08-29T07:14:00",
+      "source": {
+        "id": 490,
+        "name": "Berlingske",
+        "url": "https://www.berlingske.dk/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "protected",
+      "byline": "Emil Bo Rask Journalist Thomas Breinstrup journalist",
+      "wordCount": 867,
+      "duplicateCount": 1,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.berlingske.dk%2Fbusiness%2Fbusiness-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=da&id=358109974&key=ee68b1455c55901067a154aa92240fa0&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Business-overblik%3A%20Danmark%2C%20Finland%20og%20Sverige%20advarer%20Norge%20om%C2%BBfarligt%C2%AB%2C%C2%BBnationalistisk%C2%ABog%C2%BBselvisk%C2%ABenergihamstring%20-%20Berlingske https://www.berlingske.dk/business/business-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.berlingske.dk/business/business-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt&display=page&t=Her+er+de+vigtigste+Business-nyheder%2C+som+du+skal+kende+til%2C+f%C3%B8r+du+for+alvor+tager+hul+p%C3%A5+dagen.+Vi+l%C3%A6ser+erhvervsnyhederne+og+tjekker+aktiekurserne%2C+f%C3%B8r+du+st%C3%A5r+op%2C+s%C3%A5+du+kun+beh%C3%B8ver+at+l%C3%A6se+%C3%A9n+artikel+fra+morgenstunden+for+at+v%C3%A6re+opdateret.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.berlingske.dk/business/business-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt&display=page&t=Her+er+de+vigtigste+Business-nyheder%2C+som+du+skal+kende+til%2C+f%C3%B8r+du+for+alvor+tager+hul+p%C3%A5+dagen.+Vi+l%C3%A6ser+erhvervsnyhederne+og+tjekker+aktiekurserne%2C+f%C3%B8r+du+st%C3%A5r+op%2C+s%C3%A5+du+kun+beh%C3%B8ver+at+l%C3%A6se+%C3%A9n+artikel+fra+morgenstunden+for+at+v%C3%A6re+opdateret.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Business-overblik%3A+Danmark%2C+Finland+og+Sverige+advarer+Norge+om%C2%BBfarligt%C2%AB%2C%C2%BBnationalistisk%C2%ABog%C2%BBselvisk%C2%ABenergihamstring&summary=Her+er+de+vigtigste+Business-nyheder%2C+som+du+skal+kende+til%2C+f%C3%B8r+du+for+alvor+tager+hul+p%C3%A5+dagen.+Vi+l%C3%A6ser+erhvervsnyh...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.berlingske.dk%2Fbusiness%2Fbusiness-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": false,
+        "allowPdfShare": false,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "I",
+        "markAsExportable": true
+      },
+      "headline": "Business-overblik: Danmark, Finland og Sverige advarer Norge om»farligt«,»nationalistisk«og»selvisk«energihamstring",
+      "dynteaser": "Arnepension. <p> God læselyst! <p> Storbanker forventer europæisk recession\ninden årets udgang <p> <span class=\"retriever-hit\">Danske Bank</span>, Jyske Bank og Sydbank.",
+      "intro": "Her er de vigtigste Business-nyheder, som du skal kende til, før du for alvor tager hul på dagen. Vi læser erhvervsnyhederne og tjekker aktiekurserne, før du står op, så du kun behøver at læse én artikel fra morgenstunden for at være opdateret.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00049020220829358109974&profiles=2347866&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "https://www.berlingske.dk/business/business-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt",
+        "origUrl": "https://www.berlingske.dk/business/business-overblik-danmark-finland-og-sverige-advarer-norge-om-farligt",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=da&id=358109974&key=ee68b1455c55901067a154aa92240fa0",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=da&id=358109974&key=ee68b1455c55901067a154aa92240fa0&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2347866,
+            "name": "BAD-1871 - Banksektorn"
+          },
+          "categories": {
+            "18258": 350452,
+            "18627": 361877
+          },
+          "categoriesV2": [
+            {
+              "category": 18627,
+              "field": 361877,
+              "confidence": 1,
+              "system": "es_indexer"
+            },
+            {
+              "category": 18627,
+              "field": 361885,
+              "confidence": 0.5235229,
+              "system": "es_indexer"
+            },
+            {
+              "category": 18258,
+              "field": 350452,
+              "confidence": 0.13088073,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 3212,
+            "unadjusted": 3212.03,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2347866": [
+            {
+              "term": "nordnet",
+              "freq": 1
+            },
+            {
+              "term": "danske bank",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00234020220829358110282",
+      "docDate": "2022-08-29T07:13:00",
+      "source": {
+        "id": 2340,
+        "name": "Nationen",
+        "url": "https://www.nationen.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "Nyhetsbyrået NTB",
+      "wordCount": 741,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.nationen.no%2Fpolitikk%2Fesa-folger-med-pa-mulig-norsk-eksportbrems%2F&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110282&key=ed38b36482d05aedf3f5ae995b4fcfe5&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Esa%20f%C3%B8lger%20med%20p%C3%A5%20mulig%20norsk%20eksportbrems%20-%20Nationen https://www.nationen.no/politikk/esa-folger-med-pa-mulig-norsk-eksportbrems/",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.nationen.no/politikk/esa-folger-med-pa-mulig-norsk-eksportbrems/&display=page&t=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+til+Europa%2C+opplyser+kontrollorganet.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.nationen.no/politikk/esa-folger-med-pa-mulig-norsk-eksportbrems/&display=page&t=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+til+Europa%2C+opplyser+kontrollorganet.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Esa+f%C3%B8lger+med+p%C3%A5+mulig+norsk+eksportbrems&summary=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+ti...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.nationen.no%2Fpolitikk%2Fesa-folger-med-pa-mulig-norsk-eksportbrems%2F"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "I",
+        "markAsExportable": true
+      },
+      "headline": "Esa følger med på mulig norsk eksportbrems",
+      "dynteaser": "<p> Britenes ambassadør til <span class=\"retriever-hit\">Oslo</span>, Richard\nWood, understreker at Norge og Storbritannia må løse energiproblemene sammen - ikke hver for seg. <p> Wood ",
+      "intro": "Esa følger med på strømdebatten i Norge og vil ta stilling til forslag fra regjeringen om å begrense krafteksporten til Europa, opplyser kontrollorganet.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00234020220829358110282&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "https://www.nationen.no/politikk/esa-folger-med-pa-mulig-norsk-eksportbrems/",
+        "origUrl": "https://www.nationen.no/politikk/esa-folger-med-pa-mulig-norsk-eksportbrems/",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110282&key=ed38b36482d05aedf3f5ae995b4fcfe5",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110282&key=ed38b36482d05aedf3f5ae995b4fcfe5&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 582,
+            "unadjusted": 582.033,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00248820220829358110176",
+      "docDate": "2022-08-29T07:12:00",
+      "source": {
+        "id": 2488,
+        "name": "Byggeindustrien",
+        "url": "https://www.bygg.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "NTB",
+      "wordCount": 740,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.bygg.no%2Fesa-folger-med-pa-mulig-norsk-eksportbrems%2F1505426%21%2F&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110176&key=011529e4ba430d241abf5870c35760f8&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Esa%20f%C3%B8lger%20med%20p%C3%A5%20mulig%20norsk%20eksportbrems%20-%20Byggeindustrien https://www.bygg.no/esa-folger-med-pa-mulig-norsk-eksportbrems/1505426!/",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.bygg.no/esa-folger-med-pa-mulig-norsk-eksportbrems/1505426!/&display=page&t=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+til+Europa%2C+opplyser+kontrollorganet.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.bygg.no/esa-folger-med-pa-mulig-norsk-eksportbrems/1505426!/&display=page&t=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+til+Europa%2C+opplyser+kontrollorganet.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Esa+f%C3%B8lger+med+p%C3%A5+mulig+norsk+eksportbrems&summary=Esa+f%C3%B8lger+med+p%C3%A5+str%C3%B8mdebatten+i+Norge+og+vil+ta+stilling+til+forslag+fra+regjeringen+om+%C3%A5+begrense+krafteksporten+ti...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.bygg.no%2Fesa-folger-med-pa-mulig-norsk-eksportbrems%2F1505426%21%2F"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Esa følger med på mulig norsk eksportbrems",
+      "dynteaser": "<p> Britenes ambassadør til <span class=\"retriever-hit\">Oslo</span>, Richard\nWood, understreker at Norge og Storbritannia må løse energiproblemene sammen - ikke hver for seg. <p> Wood ",
+      "intro": "Esa følger med på strømdebatten i Norge og vil ta stilling til forslag fra regjeringen om å begrense krafteksporten til Europa, opplyser kontrollorganet.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00248820220829358110176&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00248820220829358110176&profiles=2321208&serviceId=1",
+        "origUrl": "https://www.bygg.no/esa-folger-med-pa-mulig-norsk-eksportbrems/1505426!/",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110176&key=011529e4ba430d241abf5870c35760f8",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110176&key=011529e4ba430d241abf5870c35760f8&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 305,
+            "unadjusted": 304.853,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00577020220829358109895",
+      "docDate": "2022-08-29T07:11:00",
+      "source": {
+        "id": 5770,
+        "name": "Avisa Møre",
+        "url": "https://mre.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "protected",
+      "wordCount": 181,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fmre.no%2Fnorsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar%2FType%2FNTB%2F19.1.156033&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358109895&key=16f7f39c5fab64f16a858d7b7b33618a&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Norsk%20museum%20trur%20ikkje%20Kongo%20er%20interessert%20i%20gjenstandar%20-%20Avisa%20M%C3%B8re https://mre.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.156033",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://mre.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.156033&display=page&t=Kulturhistorisk+museum+i+Oslo+har+over+3.000+gjenstandar+fr%C3%A5+Kongo%2C+men+g%C3%A5r+ut+fr%C3%A5+at+nasjonalmuseet+i+Kinshasa+ikkje+er+interessert+i+dei.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://mre.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.156033&display=page&t=Kulturhistorisk+museum+i+Oslo+har+over+3.000+gjenstandar+fr%C3%A5+Kongo%2C+men+g%C3%A5r+ut+fr%C3%A5+at+nasjonalmuseet+i+Kinshasa+ikkje+er+interessert+i+dei.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Norsk+museum+trur+ikkje+Kongo+er+interessert+i+gjenstandar&summary=Kulturhistorisk+museum+i+Oslo+har+over+3.000+gjenstandar+fr%C3%A5+Kongo%2C+men+g%C3%A5r+ut+fr%C3%A5+at+nasjonalmuseet+i+Kinshasa+ikkje+...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fmre.no%2Fnorsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar%2FType%2FNTB%2F19.1.156033"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Norsk museum trur ikkje Kongo er interessert i gjenstandar",
+      "dynteaser": " Kulturhistorisk museum i <span class=\"retriever-hit\">Oslo</span> har over 3.000 gjenstandar frå Kongo, men går ut frå at nasjonalmuseet i Kinshasa ikkje er interessert i dei.",
+      "intro": "Kulturhistorisk museum i Oslo har over 3.000 gjenstandar frå Kongo, men går ut frå at nasjonalmuseet i Kinshasa ikkje er interessert i dei.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00577020220829358109895&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00577020220829358109895&profiles=2321208&serviceId=1",
+        "origUrl": "https://mre.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.156033",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358109895&key=16f7f39c5fab64f16a858d7b7b33618a",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358109895&key=16f7f39c5fab64f16a858d7b7b33618a&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "categories": {
+            "18258": 354393
+          },
+          "categoriesV2": [
+            {
+              "category": 18258,
+              "field": 354393,
+              "confidence": 0.2077823,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 331,
+            "unadjusted": 330.695,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00549120220829358110223",
+      "docDate": "2022-08-29T07:11:00",
+      "source": {
+        "id": 5491,
+        "name": "Nordre",
+        "url": "https://nordrenett.no/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "wordCount": 181,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fnordrenett.no%2Fnorsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar%2FType%2FNTB%2F19.1.113749&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110223&key=ac3dc5b81bfcb937e2a95b63740bec6f&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Norsk%20museum%20trur%20ikkje%20Kongo%20er%20interessert%20i%20gjenstandar%20-%20Nordre https://nordrenett.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.113749",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://nordrenett.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.113749&display=page&t=Kulturhistorisk+museum+i+Oslo+har+over+3.000+gjenstandar+fr%C3%A5+Kongo%2C+men+g%C3%A5r+ut+fr%C3%A5+at+nasjonalmuseet+i+Kinshasa+ikkje+er+interessert+i+dei.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://nordrenett.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.113749&display=page&t=Kulturhistorisk+museum+i+Oslo+har+over+3.000+gjenstandar+fr%C3%A5+Kongo%2C+men+g%C3%A5r+ut+fr%C3%A5+at+nasjonalmuseet+i+Kinshasa+ikkje+er+interessert+i+dei.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Norsk+museum+trur+ikkje+Kongo+er+interessert+i+gjenstandar&summary=Kulturhistorisk+museum+i+Oslo+har+over+3.000+gjenstandar+fr%C3%A5+Kongo%2C+men+g%C3%A5r+ut+fr%C3%A5+at+nasjonalmuseet+i+Kinshasa+ikkje+...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fnordrenett.no%2Fnorsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar%2FType%2FNTB%2F19.1.113749"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "X",
+        "markAsExportable": true
+      },
+      "headline": "Norsk museum trur ikkje Kongo er interessert i gjenstandar",
+      "dynteaser": " Kulturhistorisk museum i <span class=\"retriever-hit\">Oslo</span> har over 3.000 gjenstandar frå Kongo, men går ut frå at nasjonalmuseet i Kinshasa ikkje er interessert i dei.",
+      "intro": "Kulturhistorisk museum i Oslo har over 3.000 gjenstandar frå Kongo, men går ut frå at nasjonalmuseet i Kinshasa ikkje er interessert i dei.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00549120220829358110223&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00549120220829358110223&profiles=2321208&serviceId=1",
+        "origUrl": "https://nordrenett.no/norsk-museum-trur-ikkje-kongo-er-interessert-i-gjenstandar/Type/NTB/19.1.113749",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110223&key=ac3dc5b81bfcb937e2a95b63740bec6f",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110223&key=ac3dc5b81bfcb937e2a95b63740bec6f&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "categories": {
+            "18258": 354393
+          },
+          "categoriesV2": [
+            {
+              "category": 18258,
+              "field": 354393,
+              "confidence": 0.2077823,
+              "system": "es_indexer"
+            }
+          ],
+          "adValue": {
+            "amount": 24,
+            "unadjusted": 23.5896,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00014720220829358109629",
+      "docDate": "2022-08-29T07:10:41",
+      "source": {
+        "id": 147,
+        "name": "di.se",
+        "url": "https://www.di.se"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "wordCount": 420,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.di.se%2Fbors%2Fpressmeddelande%2F198a054c-f408-5a2f-bc74-a8eccebcfe89&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358109629&key=fe689d507faa5fe2736b03277624c12b&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=TGS%20Announces%20Swanson%203D%20Multi-client%20Program%20Onshore%20Canada%20-%20di.se https://www.di.se/bors/pressmeddelande/198a054c-f408-5a2f-bc74-a8eccebcfe89",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.di.se/bors/pressmeddelande/198a054c-f408-5a2f-bc74-a8eccebcfe89&display=page&t=OSLO%2C+Norway+%2829+August+2022%29+-+TGS%2C+a+global+provider+of+energy+data+and+intelligence%2C+today+announced+Swanson+3D%2C+a+new+onshore+multi-client+3D+seismic+survey+within+the+Montney+Basin+of+Northeast+British+Columbia%2C+Canada.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.di.se/bors/pressmeddelande/198a054c-f408-5a2f-bc74-a8eccebcfe89&display=page&t=OSLO%2C+Norway+%2829+August+2022%29+-+TGS%2C+a+global+provider+of+energy+data+and+intelligence%2C+today+announced+Swanson+3D%2C+a+new+onshore+multi-client+3D+seismic+survey+within+the+Montney+Basin+of+Northeast+British+Columbia%2C+Canada.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=TGS+Announces+Swanson+3D+Multi-client+Program+Onshore+Canada&summary=OSLO%2C+Norway+%2829+August+2022%29+-+TGS%2C+a+global+provider+of+energy+data+and+intelligence%2C+today+announced+Swanson+3D%2C+a+...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.di.se%2Fbors%2Fpressmeddelande%2F198a054c-f408-5a2f-bc74-a8eccebcfe89"
+      },
+      "displayRules": {
+        "framedDefault": true,
+        "fullTextSwitch": true,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": false,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "B",
+        "markAsExportable": true
+      },
+      "headline": "TGS Announces Swanson 3D Multi-client Program Onshore Canada",
+      "intro": "OSLO, Norway (29 August 2022) - TGS, a global provider of energy data and intelligence, today announced Swanson 3D, a new onshore multi-client 3D seismic survey within the Montney Basin of Northeast British Columbia, Canada.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00014720220829358109629&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00014720220829358109629&profiles=2321208&serviceId=1",
+        "origUrl": "https://www.di.se/bors/pressmeddelande/198a054c-f408-5a2f-bc74-a8eccebcfe89",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358109629&key=fe689d507faa5fe2736b03277624c12b",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358109629&key=fe689d507faa5fe2736b03277624c12b&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 15829,
+            "unadjusted": 15828.7998,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00014720220829358109624",
+      "docDate": "2022-08-29T07:10:35",
+      "source": {
+        "id": 147,
+        "name": "di.se",
+        "url": "https://www.di.se"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "wordCount": 211,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.di.se%2Fbors%2Fpressmeddelande%2Fca33a457-ddbe-5bc6-9043-5de08d0f3812&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358109624&key=fd7f068c9488737c9af704b3cad2b238&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=American%20Shipping%20Company%20ASA%20-%20Ex%20dividend%20today%20-%20di.se https://www.di.se/bors/pressmeddelande/ca33a457-ddbe-5bc6-9043-5de08d0f3812",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.di.se/bors/pressmeddelande/ca33a457-ddbe-5bc6-9043-5de08d0f3812&display=page&t=Lysaker%2C+29+August+2022+Reference+is+made+to+the+Company%27s+Q2+2022+report%2C+regarding+the+Board%27s+authorization+to+pay+a+quarterly+dividend+of+USD+0.12+per+share+to+the+shareholders+of+AMSC+on+record+as+of+30+August+2022.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.di.se/bors/pressmeddelande/ca33a457-ddbe-5bc6-9043-5de08d0f3812&display=page&t=Lysaker%2C+29+August+2022+Reference+is+made+to+the+Company%27s+Q2+2022+report%2C+regarding+the+Board%27s+authorization+to+pay+a+quarterly+dividend+of+USD+0.12+per+share+to+the+shareholders+of+AMSC+on+record+as+of+30+August+2022.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=American+Shipping+Company+ASA+-+Ex+dividend+today&summary=Lysaker%2C+29+August+2022+Reference+is+made+to+the+Company%27s+Q2+2022+report%2C+regarding+the+Board%27s+authorization+to+pay+...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.di.se%2Fbors%2Fpressmeddelande%2Fca33a457-ddbe-5bc6-9043-5de08d0f3812"
+      },
+      "displayRules": {
+        "framedDefault": true,
+        "fullTextSwitch": true,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": false,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "B",
+        "markAsExportable": true
+      },
+      "headline": "American Shipping Company ASA - Ex dividend today",
+      "intro": "Lysaker, 29 August 2022 Reference is made to the Company's Q2 2022 report, regarding the Board's authorization to pay a quarterly dividend of USD 0.12 per share to the shareholders of AMSC on record as of 30 August 2022.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00014720220829358109624&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "/services/webdocument?documentId=00014720220829358109624&profiles=2321208&serviceId=1",
+        "origUrl": "https://www.di.se/bors/pressmeddelande/ca33a457-ddbe-5bc6-9043-5de08d0f3812",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358109624&key=fd7f068c9488737c9af704b3cad2b238",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=sv&id=358109624&key=fd7f068c9488737c9af704b3cad2b238&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 15829,
+            "unadjusted": 15828.7998,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "docId": "00256720220829358110367",
+      "docDate": "2022-08-29T07:10:00",
+      "source": {
+        "id": 2567,
+        "name": "Kampanje",
+        "url": "https://kampanje.com/"
+      },
+      "status": "published",
+      "mediatype": "web",
+      "mediatype1": "web",
+      "mediatype2": "normal",
+      "byline": "Caroline Walø Harstad",
+      "wordCount": 574,
+      "available": true,
+      "urlsV2": {
+        "web": "https://port.retriever-info.com/doccy/proxy/showoriginal?url=https%3A%2F%2Fwww.kampanje.com%2Freklame%2F2022%2F08%2Fper-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente%2F&sessionId=a0149987-3beb-4a80-9d03-c1420e75dd57",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110367&key=af7f7d6c06e4efa577bbc4653e25d2dd&type=thumbnail",
+        "shareToTwitter": "https://twitter.com/intent/tweet?text=Filmfestival%20f%C3%A5r%20nytt%20utseende%3A%20-%20I%C3%B8ynefallende%2C%20leken%2C%20fargerik%20og%20lett%20forst%C3%A5elig%20-%20Kampanje https://www.kampanje.com/reklame/2022/08/per-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente/",
+        "shareToFacebook": "https://www.facebook.com/sharer.php?u=https://www.kampanje.com/reklame/2022/08/per-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente/&display=page&t=I+tillegg+til+den+nye+identiteten%2C+er+Oslo+Pix+Filmfestival+ogs%C3%A5+p%C3%A5+flyttefot.+Festivalen+flytter+til+Gr%C3%BCnerl%C3%B8kka+og+har+visninger+p%C3%A5+blant+annet+Ringen+kino+og+Schous+plass.",
+        "shareToWorkplace": "https://work.facebook.com/sharer.php?u=https://www.kampanje.com/reklame/2022/08/per-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente/&display=page&t=I+tillegg+til+den+nye+identiteten%2C+er+Oslo+Pix+Filmfestival+ogs%C3%A5+p%C3%A5+flyttefot.+Festivalen+flytter+til+Gr%C3%BCnerl%C3%B8kka+og+har+visninger+p%C3%A5+blant+annet+Ringen+kino+og+Schous+plass.",
+        "shareToLinkedin": "https://www.linkedin.com/shareArticle?mini=true&title=Filmfestival+f%C3%A5r+nytt+utseende%3A+-+I%C3%B8ynefallende%2C+leken%2C+fargerik+og+lett+forst%C3%A5elig&summary=I+tillegg+til+den+nye+identiteten%2C+er+Oslo+Pix+Filmfestival+ogs%C3%A5+p%C3%A5+flyttefot.+Festivalen+flytter+til+Gr%C3%BCnerl%C3%B8kka+og+h...&source=https%3A%2F%2Fwww.retriever-info.com&url=https%3A%2F%2Fwww.kampanje.com%2Freklame%2F2022%2F08%2Fper-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente%2F"
+      },
+      "displayRules": {
+        "framedDefault": false,
+        "fullTextSwitch": false,
+        "pdfDefault": false,
+        "brandLexisNexis": false,
+        "brandLocked": false,
+        "allowTranslation": true,
+        "showFulltext": false,
+        "loginForFullStory": false,
+        "allowPdfDownload": true,
+        "allowPdfShare": true,
+        "mailRedirectWebToOriginal": false,
+        "redirectToOriginal": false,
+        "fullPdfArticlePage": null,
+        "allowPdf": false,
+        "code": "I",
+        "markAsExportable": true
+      },
+      "headline": "Filmfestival får nytt utseende: - Iøynefallende, leken, fargerik og lett forståelig",
+      "dynteaser": " I tillegg til den nye identiteten, er <span class=\"retriever-hit\">Oslo</span> Pix Filmfestival også på flyttefot.... Startskuddet for årets utgave av <span class=\"retriever-hit\">Oslo</span> Pix Filmfestival går mandag...",
+      "intro": "I tillegg til den nye identiteten, er Oslo Pix Filmfestival også på flyttefot. Festivalen flytter til Grünerløkka og har visninger på blant annet Ringen kino og Schous plass.",
+      "urls": {
+        "fulltext": "/services/webdocument?documentId=00256720220829358110367&profiles=2321208&serviceId=1",
+        "internalFulltext": false,
+        "facsimile": "https://www.kampanje.com/reklame/2022/08/per-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente/",
+        "origUrl": "https://www.kampanje.com/reklame/2022/08/per-hoj-kler-filmfestival-i-ny-drakt---vi-er-selvsagt-spente/",
+        "pdfUrl": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110367&key=af7f7d6c06e4efa577bbc4653e25d2dd",
+        "thumbnail": "https://www.retriever-info.com/webproxy/?date=20220829&lang=no&id=358110367&key=af7f7d6c06e4efa577bbc4653e25d2dd&type=thumbnail"
+      },
+      "profileData": [
+        {
+          "profile": {
+            "id": 2321208,
+            "name": "test mange treff"
+          },
+          "adValue": {
+            "amount": 544,
+            "unadjusted": 543.867,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "termFrequencies": {
+        "qs": [],
+        "profiles": {
+          "2321208": [
+            {
+              "term": "oslo",
+              "freq": 10
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "aggregations": {},
+  "searchAfter": [
+    "1661749800000",
+    "1661751123675"
+  ],
+  "errorStatus": 0,
+  "errorMessageKey": null,
+  "errorMessage": null
 }
